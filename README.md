@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RvSinghDeveloperbabu
-- 👀 I’m interested in new technologies and learning new thing in my current programming languages 
-- 🌱 I’m currently learning React and Node.js
+- 👀 I’m interested in new technologies and learning new things in my current programming languages are Ruby and Ruby on Rails
+- 🌱 I’m currently learning React and Node.js.
 - 📫 How to reach me 
 
 <!---
